@@ -209,6 +209,6 @@ namespace CryptoNote {
     };
 
     const char* const SEED_NODES[] = {
-        "161.97.90.8" // Appeljuice
+        "161.97.90.8:11420" // Appeljuice
     };
 } // CryptoNote
